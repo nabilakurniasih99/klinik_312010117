@@ -18,3 +18,6 @@
 
 5. Halaman Rekam Medis
 ![rekam medis](https://user-images.githubusercontent.com/106641416/179343813-20fef72c-9283-48b9-99db-71ed9ecec96c.PNG)
+
+6. Video Akhir Ujian Semester 4
+![video Akhir](https://user-images.githubusercontent.com/Tugas Akhir SIMBAD Semester 4_Nabila Kurniasih.mp4)
