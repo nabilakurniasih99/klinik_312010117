@@ -20,4 +20,4 @@
 ![rekam medis](https://user-images.githubusercontent.com/106641416/179343813-20fef72c-9283-48b9-99db-71ed9ecec96c.PNG)
 
 6. Video Akhir Ujian Semester 4
-7. (https://youtu.be/DaSTXFTvNTg)
+ (https://youtu.be/DaSTXFTvNTg)
